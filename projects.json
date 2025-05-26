@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Recipe App",
+    "description": "An app for sharing and discovering recipes.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJmEQzWVDnhNiWv3RvR6_rrctO3je09sCBw&s",
+    "siteLink": "https://my-recipe-app.com",
+    "githubLink": "https://github.com/shilat/recipe-app"
+  },
+  {
+    "id": 2,
+    "title": "Task Manager",
+    "description": "A tool to manage tasks and boost productivity.",
+    "image": "https://www.chanty.com/blog/wp-content/uploads/2020/10/Task-manager-apps-scaled.jpg",
+    "siteLink": "https://taskify.com",
+    "githubLink": "https://github.com/shilat/task-manager"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "description": "My personal portfolio built with React and MUI.",
+    "image": "https://source.unsplash.com/featured/?portfolio",
+    "siteLink": "https://myportfolio.com",
+    "githubLink": "https://github.com/shilat/portfolio"
+  },
+  {
+    "id": 4,
+    "title": "Weather App",
+    "description": "Shows weather info using OpenWeatherMap API.",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/Google-Weather-icon.png",
+    "siteLink": "https://weatherify.com",
+    "githubLink": "https://github.com/shilat/weather-app"
+  },
+  {
+    "id": 5,
+    "title": "Blog Platform",
+    "description": "A fullstack blog system with users and comments.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNgbJyKgXKf_hspg9kz2fhtgwSpfkl3lhNQ&s",
+    "siteLink": "https://blogify.com",
+    "githubLink": "https://github.com/shilat/blog-platform"
+  },
+  {
+    "id": 6,
+    "title": "E-commerce Store",
+    "description": "A basic online store built with MERN stack.",
+    "image": "https://mobisoftinfotech.com/resources/wp-content/uploads/2016/05/E-Commerce-Inhouse-Banner.jpg",
+    "siteLink": "https://mystore.com",
+    "githubLink": "https://github.com/shilat/ecommerce"
+  }
+]
